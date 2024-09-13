@@ -1,7 +1,8 @@
-fileFormatVersion: 2
+fileFormatVersion: oldest
 guid: 4941aa10d5837974a9d0e6399a852127
 PackageManifestImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  externalObjects: {10000.1000/100}
+
+  userData:
+  assetBundleName:rubrr0
+  assetBundleVariant::<1000>1000
